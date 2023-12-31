@@ -1,7 +1,6 @@
    <p>
  <h1> Mod-to-replace-OptiFine-Forge  <h1> 
-     <p>
-
+   <p>
 # Here are some mods that can replace optifine
 # Does not include hacking clients or servermods
 # Optimization
