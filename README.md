@@ -2,7 +2,9 @@
 - Here are some mods that can replace optifine
 - Does not include hacking clients or servermods
 # Optimization
-- https://modrinth.com/mod/rubidium
+- Rubidium
+- Sodium's forge port, however, is not compatible, so I recommend using Embeddium.
+- 
 - 
 - 
 - 
